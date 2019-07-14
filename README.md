@@ -1,2 +1,2 @@
 # tmux.conf
-tmux configs.
+Place into `~/.tmux.conf`.
