@@ -2,7 +2,7 @@
 Configurations for tmux.
 
 1. Install TPM (see https://github.com/tmux-plugins/tpm for installation instructions).
-2. Place `tmux.conf` into `~/.tmux.conf`.
+2. Place `.tmux.conf` into `~/`.
 3. Run the following:
 ```
 $ tmux source ~/.tmux.conf
